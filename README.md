@@ -1,6 +1,6 @@
 # Treinamento-BDD-JAVA-CUCUMBER-SELENIUM-WEBDRIVER
 
-Neste repositório consta os projetos de automação de Calculadora e WebCucumber, utilizados para treinar técnicas de especificação e automação BDD.
+Neste repositório consta os projetos de automação de Calculadora e WebCucumber, utilizados para treinar técnicas de especificação e automação BDD. Ministrei este treinamento em 29/09/2018.
 
 # Projeto Calculadora
 A feature calculadora.feature, demonstra como utilizar tags, além de exemplificar o reaproveitamento de código na automação.
